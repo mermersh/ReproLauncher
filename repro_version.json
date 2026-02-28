@@ -10,7 +10,7 @@
   "servers": [
     {
       "name": "Repro Main Server",
-      "ip": "dev.repro-p.com",
+      "ip": "test.repro-p.com",
       "port": 19132
     },
     {
