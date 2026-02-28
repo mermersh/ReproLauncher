@@ -6,5 +6,17 @@
   ],
   "source_url": "https://drive.google.com/uc?export=download&id=【GoogleドライブのファイルID】",
   "resource_pack_urls": [
+  ],
+  "servers": [
+    {
+      "name": "Repro Main Server",
+      "ip": "dev.repro-p.com",
+      "port": 19132
+    },
+    {
+      "name": "Repro Stream Server",
+      "ip": "streamxmas2025.repro-p.com",
+      "port": 19132
+    }
   ]
 }
