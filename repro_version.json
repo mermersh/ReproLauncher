@@ -14,8 +14,8 @@
       "port": 19132
     },
     {
-      "name": "Repro Stream Server",
-      "ip": "streamxmas2025.repro-p.com",
+      "name": "Repro LL Server",
+      "ip": "sub1.repro-p.com",
       "port": 19132
     }
   ]
