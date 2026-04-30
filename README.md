@@ -1,0 +1,1 @@
+ReproLauncherのリリース用リポジトリ
